@@ -1,0 +1,45 @@
+## Funnel Design Simulation (B2B SaaS | 4–6 Week Sales Cycle)
+
+**Lead**: Filled contact form or replied to outbound message  
+**MQL**: Matches ICP (Industry, Role, Need), engages with 2+ assets  
+**SQL**: Accepted meeting/demo, expresses budget/timeline intent  
+**Customer**: Signed contract and payment completed
+
+### Funnel Stages & Owners
+
+| Stage       | Criteria/Activity                             | Owner       |
+|-------------|------------------------------------------------|-------------|
+| Lead        | Inbound form / outbound response               | Marketing   |
+| MQL         | ICP-fit + Engagement                          | Marketing   |
+| SQL         | Meeting booked + Buying intent                | Sales       |
+| Opportunity | Proposal shared, negotiation in progress      | Sales       |
+| Customer    | Payment completed                             | CS / Sales  |
+
+**Bonus Stage: Opportunity**  
+Rationale: Captures mid-funnel intent for better pipeline forecasting.
+
+---
+
+## CRM Configuration Blueprint
+
+**Core Fields to Track**:
+- Contact Info (Name, Email, Phone)
+- Company Name & Size
+- Role / Department
+- Industry / Segment
+- Lead Source (FB, LinkedIn, Email, Referral)
+- Lifecycle Stage (Lead → MQL → SQL → Customer)
+- Engagement Score
+- Last Contacted
+- Notes / Objections
+
+**Automations**:
+- Auto-tag by source
+- Lifecycle update based on actions (demo booked = SQL)
+- Reminders if no contact in 5 days
+- Deal lost → nurture flow
+
+**Dashboards**:
+- **Sales Reps**: Daily tasks, hot leads, conversion % by source
+- **Growth Manager**: MQL → SQL ratios, funnel leaks, CAC trends
+- **CEO**: Revenue forecast, CAC:LTV trend, conversion velocity
