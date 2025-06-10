@@ -1,0 +1,21 @@
+# Growth by Data: Funnel Optimization & CAC Reduction
+
+This repository contains the full solution for the DeepThought Fellowship Simulation Assignment: **"Growth by Data – Orchestrating Funnels, Reducing CAC."**
+
+## 🧠 Objective
+To architect a scalable B2B SaaS growth system by:
+- Designing a clean, actionable sales funnel
+- Structuring CRM logic to reduce chaos
+- Building personalized nurturing tracks
+- Using funnel analytics to cut CAC
+- Synthesizing it all with data-driven leadership thinking
+
+---
+
+## 📂 Repository Contents
+
+- `funnel-design/` — Funnel stages and CRM structuring
+- `lead-nurturing/` — Playbooks for lead reactivation
+- `analytics-cac-ops/` — CAC breakdown and channel experiments
+- `strategic-summary/` — CEO-level thinking behind the system
+- `assets/` — Diagrams and dashboard mocks (optional)
